@@ -84,6 +84,8 @@ if(process_result):
 # continue chat
 if st.session_state.get("chain_ready", False):
     user_input = st.chat_input("Enter your question")
+    st.markdown("**Input**")
+    st.write(user_input)
     if user_input:
         with st.spinner("Searching and Generation answer..."):
             try:
