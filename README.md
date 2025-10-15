@@ -38,4 +38,5 @@ This is a Streamlit-based chatbot that lets you **ask questions about any YouTub
 | Env Management | python-dotenv           |
 
 ## Here's a Demo of this ChatBot - 
-<img width="1071" height="812" alt="Screenshot 2025-10-15 at 2 43 48 PM" src="https://github.com/user-attachments/assets/9da4a7b3-3e9d-461c-91cc-93edaf8bf27e" />
+
+<img width="853" height="790" alt="Screenshot 2025-10-15 at 3 11 54 PM" src="https://github.com/user-attachments/assets/22f56634-180b-4201-b12b-88f650989161" />
